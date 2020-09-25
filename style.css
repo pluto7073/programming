@@ -1,0 +1,84 @@
+body {
+	background-image: url("files/images/background.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.headerBox {
+	margin: 50px;
+	padding: 25px;
+	text-align: center;
+}
+.title {
+	font-size: 72px;
+	color: #fff;
+}
+.buttonBox {
+	margin: 50px;
+	text-align: center;
+}
+.simpleButton {
+	background-color: #999;
+	color: #333;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	font-size: 24px;
+	border: none;
+}
+.simpleButton:hover {
+	background-color: #777;
+	color: #111;
+}
+.simpleButton:focus {
+	background-color: #555;
+	color: 000;
+}
+#selectedButton {
+	background-color: #9e0032;
+	color: #fff;
+}
+#selectedButton:hover {
+	background-color: #7c0010;
+	color: #ddd;
+}
+#selectedButton:focus {
+	background-color: #5a0000;
+	color: #bbb;
+}
+.body {
+	margin: 50px;
+	padding: 25px;
+	text-align: center;
+}
+.vidBox {
+	margin: 50px;
+	text-align: left;
+}
+.divider {
+	margin-left: 50px;
+	margin-right:50px;
+}
+.simpleHeader {
+	color: #fff;
+	font-size: 48px;
+}
+.vidLabel {
+	color: #fff;
+	text-decoration: none;
+}
+.simpleParagraph {
+	color: #fff;
+	font-size: 24px;
+}
+#list1 {
+	color: #fff;
+	font-size: 24px;
+	text-align: left;
+	margin-left: 350px;
+}
+a {
+	color: #fff;
+	font-size: 24px;
+	text-decoration: none;
+}
